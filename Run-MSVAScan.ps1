@@ -6,21 +6,23 @@
     Gets all MS Vulnerability Assessments from a Rules Database and runs them on another Server, outputting the results as Text and HTML files
       
 .EXAMPLE
-    Run-VA.ps1 localhost
+    Run-VAScan.ps1 localhost
 	
 .EXAMPLE
-    Run-VA.ps1 server01 sa password
+    Run-VAScan.ps1 server01 sa password
 
 .Inputs
-    ServerName\instance, [SQLUser], [SQLPassword]
+    [ServerName\instance], [SQLUser], [SQLPassword]
 
 .Outputs
 
 	
 .NOTES
-
+    defaults to scanning localhost
+    Needs Sysadmin=level security to run all checks
 
 .LINK
+    https://github.com/gwalkey
 		
 	
 #>
