@@ -1,4 +1,4 @@
-# MSVATool
+# MSVAScan
 Scans SQL Server Databases for Security Vulnerabilities
 
 Uses the same Vulnerability database found in SSMS 17.4
