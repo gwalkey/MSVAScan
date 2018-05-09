@@ -9,5 +9,5 @@ Run-MSVAScan.ps1 -instance SQLSERVERINSTANCE [-User SQLAuthUser] [-Password SQLA
 
 Output:<br>
 *HTML file with a scan summary sorted by Severity<Br>
-*HTML file with a Scan summary sorted by Database<br>
+*HTML file with a scan summary sorted by Database<br>
 *Text file with TSQL Remediation Code for each scanned Database<br>
