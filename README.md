@@ -11,3 +11,6 @@ Output:<br>
 *HTML file with a scan summary sorted by Severity<Br>
 *HTML file with a scan summary sorted by Database<br>
 *Text file with TSQL Remediation Code for each scanned Database<br>
+
+
+![alt text](https://raw.githubusercontent.com/gwalkey/MSVAScan/master/MSVAScan.gif)
