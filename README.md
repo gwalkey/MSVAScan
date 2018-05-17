@@ -13,4 +13,4 @@ Output:<br>
 *Text file with TSQL Remediation Code for each scanned Database<br>
 
 
-![alt text](https://raw.githubusercontent.com/gwalkey/MSVAScan/master/MSVAScan.jpg)
+![alt text](https://raw.githubusercontent.com/gwalkey/MSVAScan/master/MSVAScan.gif)
