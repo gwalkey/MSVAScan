@@ -2,9 +2,7 @@
 Scans SQL Server Databases for Security Vulnerabilities
 
 Uses the same Vulnerability database found in SSMS 17.4+, 
-
 but runs for ALL Databases on a server,
-
 not just one at a time like SSMS does
 
 Input:<br>
