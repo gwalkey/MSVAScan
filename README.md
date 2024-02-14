@@ -1,4 +1,4 @@
-# MSVAScan
+# MS Vulnerability Scanner
 Scans SQL Server Databases for Security Vulnerabilities
 
 Uses the same Vulnerability database found in SSMS 17.4+, and Azure Defender for SQL (so why pay for that?)<br>
