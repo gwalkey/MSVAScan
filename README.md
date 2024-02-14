@@ -8,7 +8,7 @@ Note:<br>
 MS purposefully removed this from SSMS 19.1 so they could charge for the same thing as Defender<br>
 https://learn.microsoft.com/en-us/sql/relational-databases/security/sql-vulnerability-assessment?view=sql-server-ver16#removal-of-the-sql-vulnerability-assessment-in-sql-server-management-studio-191<br>
 
-Defender doesnt actuvely scan for anything, making it useless
+Defender doesnt actively scan for anything, making it useless
 
 
 Input:<br>
